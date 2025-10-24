@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.b0f451b0.css",
-    "main.js": "/Portfolio/static/js/main.561810ac.js",
+    "main.css": "/Portfolio/static/css/main.801efa95.css",
+    "main.js": "/Portfolio/static/js/main.1fb9f53b.js",
     "static/js/453.b05d8aa5.chunk.js": "/Portfolio/static/js/453.b05d8aa5.chunk.js",
     "static/media/ticketmeister.png": "/Portfolio/static/media/ticketmeister.8193983046c096eba18d.png",
     "static/media/bg-light.png": "/Portfolio/static/media/bg-light.bac0efb485244a522981.png",
@@ -13,12 +13,12 @@
     "static/media/assembly.jpeg": "/Portfolio/static/media/assembly.dd77e4ccbf466a06f2a8.jpeg",
     "static/media/openAI.jpeg": "/Portfolio/static/media/openAI.cb89fe784bd7225ba3bf.jpeg",
     "index.html": "/Portfolio/index.html",
-    "main.b0f451b0.css.map": "/Portfolio/static/css/main.b0f451b0.css.map",
-    "main.561810ac.js.map": "/Portfolio/static/js/main.561810ac.js.map",
+    "main.801efa95.css.map": "/Portfolio/static/css/main.801efa95.css.map",
+    "main.1fb9f53b.js.map": "/Portfolio/static/js/main.1fb9f53b.js.map",
     "453.b05d8aa5.chunk.js.map": "/Portfolio/static/js/453.b05d8aa5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b0f451b0.css",
-    "static/js/main.561810ac.js"
+    "static/css/main.801efa95.css",
+    "static/js/main.1fb9f53b.js"
   ]
 }
