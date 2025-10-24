@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.53f8384e.css",
-    "main.js": "/Portfolio/static/js/main.2ca25d54.js",
+    "main.js": "/Portfolio/static/js/main.ae2d8650.js",
     "static/js/453.b05d8aa5.chunk.js": "/Portfolio/static/js/453.b05d8aa5.chunk.js",
     "static/media/ticketmeister.png": "/Portfolio/static/media/ticketmeister.8193983046c096eba18d.png",
     "static/media/bg-light.png": "/Portfolio/static/media/bg-light.bac0efb485244a522981.png",
@@ -14,11 +14,11 @@
     "static/media/openAI.jpeg": "/Portfolio/static/media/openAI.cb89fe784bd7225ba3bf.jpeg",
     "index.html": "/Portfolio/index.html",
     "main.53f8384e.css.map": "/Portfolio/static/css/main.53f8384e.css.map",
-    "main.2ca25d54.js.map": "/Portfolio/static/js/main.2ca25d54.js.map",
+    "main.ae2d8650.js.map": "/Portfolio/static/js/main.ae2d8650.js.map",
     "453.b05d8aa5.chunk.js.map": "/Portfolio/static/js/453.b05d8aa5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.53f8384e.css",
-    "static/js/main.2ca25d54.js"
+    "static/js/main.ae2d8650.js"
   ]
 }
