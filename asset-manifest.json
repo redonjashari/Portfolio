@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.53f8384e.css",
+    "main.js": "/Portfolio/static/js/main.2ca25d54.js",
+    "static/js/453.b05d8aa5.chunk.js": "/Portfolio/static/js/453.b05d8aa5.chunk.js",
+    "static/media/ticketmeister.png": "/Portfolio/static/media/ticketmeister.8193983046c096eba18d.png",
+    "static/media/bg-light.png": "/Portfolio/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/Contix.png": "/Portfolio/static/media/Contix.90314e9327a78a8645df.png",
+    "static/media/bg-dark.png": "/Portfolio/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/ShopLane.png": "/Portfolio/static/media/ShopLane.19ab83b571d500e82a11.png",
+    "static/media/Hazard.jpg": "/Portfolio/static/media/Hazard.e9b056ef0a2bf8761f5f.jpg",
+    "static/media/Restaurant.png": "/Portfolio/static/media/Restaurant.cf364f809f6a6e2ed3be.png",
+    "static/media/assembly.jpeg": "/Portfolio/static/media/assembly.dd77e4ccbf466a06f2a8.jpeg",
+    "static/media/openAI.jpeg": "/Portfolio/static/media/openAI.cb89fe784bd7225ba3bf.jpeg",
+    "index.html": "/Portfolio/index.html",
+    "main.53f8384e.css.map": "/Portfolio/static/css/main.53f8384e.css.map",
+    "main.2ca25d54.js.map": "/Portfolio/static/js/main.2ca25d54.js.map",
+    "453.b05d8aa5.chunk.js.map": "/Portfolio/static/js/453.b05d8aa5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53f8384e.css",
+    "static/js/main.2ca25d54.js"
+  ]
+}
